@@ -1,4 +1,4 @@
-package kassa1;
+2package kassa1;
 
 import java.util.List;
 import java.util.Scanner;
